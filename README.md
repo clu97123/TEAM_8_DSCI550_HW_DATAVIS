@@ -13,7 +13,7 @@ Justin Huh: Task 1, Task 2 (D3 Calendar Visualization)
 
 Rohan Rane: Task 1, Task 2 (D3 Bar Chart Race, State Chloropleth (Heat Map))
 
-Vishal Menon: Task 4 (Image Space)
+Vishal Menon: Task 3 (Solr Data Ingestion), Task 4 (Image Space)
 
 Pratham Kambli Task 4 (Image Space)
 
