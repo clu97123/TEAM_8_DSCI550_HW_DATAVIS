@@ -1,0 +1,14 @@
+jupyterlab
+pandas
+pysolr
+requests
+tqdm
+json
+IPython.display.HTML
+matplotlib.pyplot
+pytorch
+torch
+smqtk
+tika
+imageio
+kaleido
