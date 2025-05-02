@@ -12,3 +12,4 @@ smqtk
 tika
 imageio
 kaleido
+datetime
