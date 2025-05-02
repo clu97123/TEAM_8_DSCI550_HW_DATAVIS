@@ -11,5 +11,7 @@ torch
 smqtk
 tika
 imageio
-kaleido
-datetime
+Kaleido
+Datetime
+@d3/color-legend
+pprint
